@@ -14,7 +14,7 @@
           <mxGeometry x="170" y="137.79" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-92" value="Firewall" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="133.29" y="235.57999999999998" width="118" height="48" as="geometry" />
+          <mxGeometry x="140" y="249.99999999999997" width="118" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-93" value="IPsec" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="137.79" width="97" height="48" as="geometry" />
@@ -45,10 +45,11 @@
             <mxPoint x="362" y="162.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vAjCrRO6vKIVGS_xZvfh-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=1;rounded=0;" edge="1" parent="1" source="vAjCrRO6vKIVGS_xZvfh-92">
+        <mxCell id="vAjCrRO6vKIVGS_xZvfh-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.25;entryY=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAjCrRO6vKIVGS_xZvfh-92" target="vAjCrRO6vKIVGS_xZvfh-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="287.28999999999996" y="259.58" />
+              <mxPoint x="320" y="220" />
             </Array>
             <mxPoint x="338.9993023255813" y="185.78930232558133" as="targetPoint" />
           </mxGeometry>
