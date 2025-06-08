@@ -22,7 +22,7 @@
           <mxGeometry x="195.25" y="233.79" width="87.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-93" value="IPsec" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="360" y="137.79" width="97" height="48" as="geometry" />
+          <mxGeometry x="360" y="150" width="97" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-94" value="IKE" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="530" y="29.999999999999993" width="82" height="48" as="geometry" />
@@ -36,7 +36,7 @@
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-97" value="Application Layer Protocols" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="670" y="170" width="230" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="vAjCrRO6vKIVGS_xZvfh-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" edge="1" parent="1" source="vAjCrRO6vKIVGS_xZvfh-89">
+        <mxCell id="vAjCrRO6vKIVGS_xZvfh-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.25;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAjCrRO6vKIVGS_xZvfh-89" target="vAjCrRO6vKIVGS_xZvfh-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="335" y="63.79" />
