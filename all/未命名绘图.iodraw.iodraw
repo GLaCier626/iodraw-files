@@ -16,7 +16,7 @@
           <mxGeometry x="190" y="30" width="98" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-91" value="NAT Device" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="190" y="130" width="98" height="48" as="geometry" />
+          <mxGeometry x="190" y="137.79" width="98" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-92" value="Firewall" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="195.25" y="233.79" width="87.5" height="48" as="geometry" />
@@ -31,7 +31,7 @@
           <mxGeometry x="507" y="120" width="83" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-96" value="UDP" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="506" y="195.79" width="83" height="48" as="geometry" />
+          <mxGeometry x="506" y="210" width="83" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-97" value="Application Layer Protocols" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="630" y="147.79" width="257" height="48" as="geometry" />
@@ -68,7 +68,7 @@
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-102" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0;entryY=0.51;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;exitDx=0;exitDy=0;" edge="1" parent="1" source="vAjCrRO6vKIVGS_xZvfh-93" target="vAjCrRO6vKIVGS_xZvfh-95">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="130" />
+              <mxPoint x="480" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
