@@ -62,13 +62,15 @@
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-102" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=0;entryY=0.51;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" edge="1" parent="1" source="vAjCrRO6vKIVGS_xZvfh-93" target="vAjCrRO6vKIVGS_xZvfh-95">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="480" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-103" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vAjCrRO6vKIVGS_xZvfh-93" target="vAjCrRO6vKIVGS_xZvfh-96">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="210" />
+              <mxPoint x="480" y="200" />
             </Array>
             <mxPoint x="460" y="170" as="sourcePoint" />
           </mxGeometry>
