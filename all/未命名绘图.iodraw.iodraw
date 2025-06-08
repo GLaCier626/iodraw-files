@@ -23,7 +23,7 @@
           <mxGeometry x="507" y="29.999999999999993" width="82" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-95" value="TCP" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="507" y="110" width="83" height="48" as="geometry" />
+          <mxGeometry x="507" y="100" width="83" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-96" value="UDP" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="507" y="200" width="83" height="48" as="geometry" />
@@ -68,7 +68,7 @@
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-103" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vAjCrRO6vKIVGS_xZvfh-93" target="vAjCrRO6vKIVGS_xZvfh-96">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="220" />
+              <mxPoint x="470" y="210" />
             </Array>
             <mxPoint x="460" y="170" as="sourcePoint" />
           </mxGeometry>
