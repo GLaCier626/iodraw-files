@@ -14,7 +14,7 @@
           <mxGeometry x="170" y="137.79" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-92" value="Firewall" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="249.99999999999997" width="118" height="48" as="geometry" />
+          <mxGeometry x="192" y="226.79" width="78" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-93" value="IPsec" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="137.79" width="97" height="48" as="geometry" />
