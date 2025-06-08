@@ -8,16 +8,16 @@
           <mxGeometry x="6.9999877929687955" y="-570" width="934" height="245" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-89" value="IP Protocol" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="151" y="39.79" width="137" height="48" as="geometry" />
+          <mxGeometry x="171" y="39.79" width="137" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-91" value="NAT Device" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="150" y="137.79" width="140" height="48" as="geometry" />
+          <mxGeometry x="170" y="137.79" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-92" value="Firewall" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="133.29" y="235.57999999999998" width="118" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-93" value="IPsec" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="339" y="137.79" width="97" height="48" as="geometry" />
+          <mxGeometry x="360" y="137.79" width="97" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-94" value="IKE" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="39.78999999999999" width="82" height="48" as="geometry" />
@@ -34,15 +34,15 @@
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="vAjCrRO6vKIVGS_xZvfh-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="315" y="63.79" />
+              <mxPoint x="335" y="63.79" />
             </Array>
-            <mxPoint x="366.70930232558135" y="137.58069767441864" as="targetPoint" />
+            <mxPoint x="386.70930232558135" y="137.58069767441864" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="vAjCrRO6vKIVGS_xZvfh-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="342" y="162.29" as="targetPoint" />
+            <mxPoint x="362" y="162.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=1;rounded=0;" edge="1" parent="1" source="vAjCrRO6vKIVGS_xZvfh-92">
