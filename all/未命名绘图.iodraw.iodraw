@@ -34,7 +34,7 @@
           <mxGeometry x="506" y="210" width="83" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-97" value="Application Layer Protocols" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="630" y="147.79" width="257" height="48" as="geometry" />
+          <mxGeometry x="650" y="180" width="257" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vAjCrRO6vKIVGS_xZvfh-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;fontFamily=Comic Sans MS;" edge="1" parent="1" source="vAjCrRO6vKIVGS_xZvfh-89">
           <mxGeometry relative="1" as="geometry">
