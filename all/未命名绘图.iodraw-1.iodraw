@@ -7,11 +7,6 @@
         <mxCell id="K_CiNm2isvSEITLyJ2I3-27" value="加密算法(加密)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="880" y="770" width="157" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="K_CiNm2isvSEITLyJ2I3-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=1;" edge="1" parent="1" source="K_CiNm2isvSEITLyJ2I3-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1400" y="820.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K_CiNm2isvSEITLyJ2I3-28" value="加密IP报文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1412" y="869" width="139" height="49" as="geometry" />
         </mxCell>
