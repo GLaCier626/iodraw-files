@@ -1,9 +1,139 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ad697XzxGtuUMO0bZ3cC">
-    <mxGraphModel dx="1795" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1167" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-27" value="加密算法(加密)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="880" y="770" width="157" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-28" value="加密IP报文" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1412" y="869" width="139" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-29" value="验证算法(HMAC)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1664" y="810" width="166" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-30" value="加密IP报文 ICV" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="2018" y="869" width="167" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-31" value="IPsec接收方" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="435" y="1149" width="145" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-32" value="IP报文" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+          <mxGeometry x="670" y="1149" width="76" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-33" value="加密算法(解密)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="973" y="1095" width="157" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-34" value="加密IP报文" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1181" y="1149" width="139" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-35" value="两端计算的ICV是否相符?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="1062" width="222" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-36" value="加密IP报文 ICV" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1664" y="1050" width="167" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-37" value="丢弃" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1701" y="1149" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-38" value="验证算法(HMAC)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="2018" y="981" width="166" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-39" value="ICV" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="2235" y="1040" width="84" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.4;entryX=0;entryY=0.49;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-27" target="K_CiNm2isvSEITLyJ2I3-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="893" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-28" target="K_CiNm2isvSEITLyJ2I3-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.42;entryX=0;entryY=0.2;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-29" target="K_CiNm2isvSEITLyJ2I3-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1925" y="863" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.49;entryX=-0.01;entryY=0.49;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-31" target="K_CiNm2isvSEITLyJ2I3-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-32" target="K_CiNm2isvSEITLyJ2I3-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-33" target="K_CiNm2isvSEITLyJ2I3-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-34" target="K_CiNm2isvSEITLyJ2I3-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-49" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.16;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-35" target="K_CiNm2isvSEITLyJ2I3-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1628" y="1075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-50" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.01;entryY=0.49;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-35" target="K_CiNm2isvSEITLyJ2I3-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.4;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-36" target="K_CiNm2isvSEITLyJ2I3-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1925" y="1065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-38" target="K_CiNm2isvSEITLyJ2I3-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-53" value="对称密钥&#xa;DH算法生成并共享" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0;entryY=0.01;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-27" target="K_CiNm2isvSEITLyJ2I3-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="1006" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-54" value="对称密钥&#xa;DH算法生成并共享" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0;entryY=0.17;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-29" target="K_CiNm2isvSEITLyJ2I3-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1925" y="946" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0;entryY=0.56;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-36" target="K_CiNm2isvSEITLyJ2I3-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1925" y="1085" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_CiNm2isvSEITLyJ2I3-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.22;entryY=0.99;rounded=0;" parent="1" source="K_CiNm2isvSEITLyJ2I3-29" target="K_CiNm2isvSEITLyJ2I3-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1925" y="986" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
