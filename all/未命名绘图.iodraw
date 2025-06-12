@@ -32,16 +32,16 @@
           <mxGeometry x="290" y="270" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nacaM-XK-_JYSp9gb8_s-8" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; font-size: 40px;&quot;&gt;&lt;span style=&quot;font-size: 40px; letter-spacing: 0pt; vertical-align: baseline;&quot;&gt;ike_sa_manager.c&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="635" y="780" width="360" height="100" as="geometry" />
+          <mxGeometry x="620" y="780" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nacaM-XK-_JYSp9gb8_s-42" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nacaM-XK-_JYSp9gb8_s-9" target="nacaM-XK-_JYSp9gb8_s-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nacaM-XK-_JYSp9gb8_s-9" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; font-size: 40px;&quot;&gt;&lt;span style=&quot;font-size: 40px; letter-spacing: 0pt; vertical-align: baseline;&quot;&gt;stroke_plugin.c&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="635" y="570" width="350" height="100" as="geometry" />
+          <mxGeometry x="620" y="560" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nacaM-XK-_JYSp9gb8_s-10" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; font-size: 40px;&quot;&gt;&lt;span style=&quot;font-size: 40px; letter-spacing: 0pt; vertical-align: baseline;&quot;&gt;crypto_factory.c&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="380" width="350" height="100" as="geometry" />
+          <mxGeometry x="625" y="370" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nacaM-XK-_JYSp9gb8_s-39" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nacaM-XK-_JYSp9gb8_s-11" target="nacaM-XK-_JYSp9gb8_s-16">
           <mxGeometry relative="1" as="geometry" />
