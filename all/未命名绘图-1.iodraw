@@ -79,8 +79,8 @@
         <mxCell id="WQhrbBUWIVvsgh-2LFRs-41" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;OSI&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="232" y="-677" width="57" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="WQhrbBUWIVvsgh-2LFRs-42" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-669" width="57" height="26" as="geometry" />
+        <mxCell id="WQhrbBUWIVvsgh-2LFRs-42" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;TCP/IP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="528" y="-673" width="83" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
