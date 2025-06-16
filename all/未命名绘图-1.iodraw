@@ -148,11 +148,11 @@
         <mxCell id="v8XEPaSJM79VfMsK3hIC-81" value="Authenticated" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;glass=0;fillColor=#ffd6d6;fontSize=32;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-1710" y="560" width="690" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v8XEPaSJM79VfMsK3hIC-95" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;AH Transport Mode&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="-205" width="330" height="50" as="geometry" />
+        <mxCell id="v8XEPaSJM79VfMsK3hIC-95" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 34px;&quot;&gt;AH Transport Mode&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="-205" width="350" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="v8XEPaSJM79VfMsK3hIC-98" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;AH Tunnel Mode&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-855" y="195" width="280" height="50" as="geometry" />
+        <mxCell id="v8XEPaSJM79VfMsK3hIC-98" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 34px;&quot;&gt;AH Tunnel Mode&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-865" y="195" width="300" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
