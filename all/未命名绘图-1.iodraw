@@ -79,7 +79,7 @@
         <mxCell id="v8XEPaSJM79VfMsK3hIC-80" value="Authenticated" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;glass=0;fillColor=#ffd6d6;fontSize=32;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-1830" y="1220" width="810" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v8XEPaSJM79VfMsK3hIC-81" value="Authenticated" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;glass=0;fillColor=#FFD6D6;fontSize=32;fontStyle=1;fontFamily=Comic Sans MS;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="v8XEPaSJM79VfMsK3hIC-81" value="Authenticated" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;glass=0;fillColor=#FFD6D6;fontSize=32;fontStyle=1;fontFamily=Comic Sans MS;gradientColor=#FFD6D6;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="-1710" y="560" width="690" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8XEPaSJM79VfMsK3hIC-99" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 34px;&quot;&gt;ESP Transport Mode&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
