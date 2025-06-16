@@ -64,7 +64,7 @@
             <Array as="points">
               <mxPoint x="-1150" y="20" />
               <mxPoint x="-1150" y="300" />
-              <mxPoint x="-810" y="300" />
+              <mxPoint x="-790" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -87,7 +87,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yYf2MwOOkIlXRyeCQ5cV-11" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 17px;&quot;&gt;SA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#8CD5FF;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-850" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="-830" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yYf2MwOOkIlXRyeCQ5cV-12" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 17px;&quot;&gt;DOI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#8CD5FF;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="160" width="130" height="40" as="geometry" />
@@ -98,7 +98,7 @@
         <mxCell id="yYf2MwOOkIlXRyeCQ5cV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#8CD5FF;shadow=0;fontStyle=1;fontSize=17;" parent="1" source="yYf2MwOOkIlXRyeCQ5cV-15" target="yYf2MwOOkIlXRyeCQ5cV-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-810" y="20" />
+              <mxPoint x="-790" y="20" />
             </Array>
           </mxGeometry>
         </mxCell>
