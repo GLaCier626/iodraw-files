@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yYf2MwOOkIlXRyeCQ5cV-15" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 17px;&quot;&gt;AH&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#8CD5FF;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-930" width="90" height="40" as="geometry" />
+          <mxGeometry x="-917" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yYf2MwOOkIlXRyeCQ5cV-16" value="&lt;p style=&quot;font-size: 17px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 17px;&quot;&gt;Validation Algorithms&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#8CD5FF;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-980" y="80" width="100" height="40" as="geometry" />
