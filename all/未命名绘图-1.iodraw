@@ -85,8 +85,8 @@
         <mxCell id="v8XEPaSJM79VfMsK3hIC-99" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 34px;&quot;&gt;ESP Transport Mode&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-680" y="695" width="360" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="v8XEPaSJM79VfMsK3hIC-100" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 34px;&quot;&gt;AH Tunnel Mode&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="1095" width="300" height="50" as="geometry" />
+        <mxCell id="v8XEPaSJM79VfMsK3hIC-100" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 34px;&quot;&gt;ESP Tunnel Mode&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-695" y="1095" width="310" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
