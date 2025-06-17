@@ -16,7 +16,7 @@
         <mxCell id="nOpo5elGjL__1juKhSZJ-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCCCC;fontSize=43;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-579" y="1808" width="699" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="nOpo5elGjL__1juKhSZJ-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fillColor=#54BBFF;fontSize=43;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="nOpo5elGjL__1juKhSZJ-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCCCC;fontSize=43;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-667" y="1060" width="1118" height="210" as="geometry" />
         </mxCell>
         <mxCell id="v8XEPaSJM79VfMsK3hIC-38" value="ESP&lt;div style=&quot;font-size: 32px;&quot;&gt;Authentication&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;glass=0;fillColor=#ffcdac;fontSize=32;fontStyle=1;fontFamily=Comic Sans MS;shadow=1;" parent="1" vertex="1">
@@ -203,7 +203,7 @@
         <mxCell id="nOpo5elGjL__1juKhSZJ-69" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 43px;&quot;&gt;Configuration&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=43;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-380" y="1748" width="310" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="nOpo5elGjL__1juKhSZJ-72" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 43px;&quot;&gt;&lt;font style=&quot;font-size: 43px;&quot;&gt;Core Daemon Logic&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=43;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="nOpo5elGjL__1juKhSZJ-72" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 43px;&quot;&gt;&lt;font style=&quot;font-size: 43px;&quot;&gt;Core Daemon Logic&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=43;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-383" y="990" width="432" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-73" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 43px;&quot;&gt;Kernel Interface&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=43;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
