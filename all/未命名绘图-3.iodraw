@@ -147,10 +147,10 @@
         <mxCell id="nOpo5elGjL__1juKhSZJ-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fontSize=43;fontStyle=1" edge="1" parent="1" source="nOpo5elGjL__1juKhSZJ-35" target="nOpo5elGjL__1juKhSZJ-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nOpo5elGjL__1juKhSZJ-81" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="nOpo5elGjL__1juKhSZJ-35" target="nOpo5elGjL__1juKhSZJ-75">
+        <mxCell id="nOpo5elGjL__1juKhSZJ-81" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="nOpo5elGjL__1juKhSZJ-35" target="nOpo5elGjL__1juKhSZJ-75">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="133" y="1636" />
+              <mxPoint x="115" y="1666" />
             </Array>
           </mxGeometry>
         </mxCell>
