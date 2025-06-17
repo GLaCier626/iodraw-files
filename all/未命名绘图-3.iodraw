@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nOpo5elGjL__1juKhSZJ-75" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#B5739D;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fillColor=#B5739D;fontSize=43;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="318" y="1793" width="454" height="330" as="geometry" />
+          <mxGeometry x="286" y="1707.5" width="454" height="330" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-65" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF3B6F;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF3B6F;fontSize=43;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-40" y="1290" width="740" height="400" as="geometry" />
@@ -160,10 +160,10 @@
           <mxGeometry x="281" y="1560" width="389" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-37" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; font-size: 43px;&quot;&gt;&lt;span style=&quot;font-size: 43px; letter-spacing: 0pt; vertical-align: baseline;&quot;&gt;stroke_plugin.c&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=43;fontFamily=Comic Sans MS;fontStyle=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="357" y="1861" width="379" height="100" as="geometry" />
+          <mxGeometry x="325" y="1775.5" width="379" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-38" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; font-size: 43px;&quot;&gt;&lt;span style=&quot;font-size: 43px; letter-spacing: 0pt; vertical-align: baseline;&quot;&gt;crypto_factory.c&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=43;fontFamily=Comic Sans MS;fontStyle=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="349" y="2003" width="393" height="100" as="geometry" />
+          <mxGeometry x="317" y="1917.5" width="393" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-39" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;strokeWidth=3;entryX=0;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fontSize=43;" edge="1" parent="1" source="nOpo5elGjL__1juKhSZJ-40" target="nOpo5elGjL__1juKhSZJ-46">
           <mxGeometry relative="1" as="geometry">
@@ -216,7 +216,7 @@
           <mxGeometry x="-5" y="1230" width="700" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-76" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 43px;&quot;&gt;Crypto&amp;amp;Plugins&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=43;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="326.5" y="1718" width="440" height="210" as="geometry" />
+          <mxGeometry x="294.5" y="1632.5" width="440" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.16;entryY=0.884;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="nOpo5elGjL__1juKhSZJ-40" target="nOpo5elGjL__1juKhSZJ-40">
           <mxGeometry relative="1" as="geometry" />
