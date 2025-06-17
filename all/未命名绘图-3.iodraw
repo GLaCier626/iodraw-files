@@ -16,7 +16,7 @@
         <mxCell id="nOpo5elGjL__1juKhSZJ-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#F19C99;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fillColor=#54BBFF;fontSize=43;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-579" y="1808" width="699" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="nOpo5elGjL__1juKhSZJ-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#54BBFF;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fillColor=#54BBFF;fontSize=43;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="nOpo5elGjL__1juKhSZJ-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#54BBFF;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCCCC;fontSize=43;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-667" y="1060" width="1118" height="210" as="geometry" />
         </mxCell>
         <mxCell id="v8XEPaSJM79VfMsK3hIC-38" value="ESP&lt;div style=&quot;font-size: 32px;&quot;&gt;Authentication&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;glass=0;fillColor=#ffcdac;fontSize=32;fontStyle=1;fontFamily=Comic Sans MS;shadow=1;" parent="1" vertex="1">
