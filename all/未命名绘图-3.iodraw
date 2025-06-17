@@ -11,7 +11,7 @@
           <mxGeometry x="-187" y="1320" width="840" height="400" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-66" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;strokeWidth=3;fillColor=#CCCCCC;fontSize=50;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="781" y="1398" width="1156" height="210" as="geometry" />
+          <mxGeometry x="781" y="1398" width="1144" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;strokeWidth=3;fillColor=#CCCCCC;fontSize=50;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-618" y="1819" width="869" height="220" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="-614" y="970" width="652" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-73" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 50px;&quot;&gt;Kernel Interface&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1;strokeColor=none;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1048" y="1338" width="440" height="210" as="geometry" />
+          <mxGeometry x="1133" y="1334" width="440" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-74" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 50px;&quot;&gt;IKE&amp;amp;CHHILD SA Management&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1;strokeColor=none;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-152" y="1260" width="783" height="210" as="geometry" />
