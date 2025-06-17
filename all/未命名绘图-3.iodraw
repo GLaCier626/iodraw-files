@@ -13,7 +13,7 @@
         <mxCell id="nOpo5elGjL__1juKhSZJ-66" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fillColor=#54BBFF;fontSize=43;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="730" y="1390" width="1039" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="nOpo5elGjL__1juKhSZJ-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fillColor=#54BBFF;fontSize=43;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="nOpo5elGjL__1juKhSZJ-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCCCC;fontSize=43;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-579" y="1808" width="699" height="220" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fillColor=#54BBFF;fontSize=43;fontStyle=1" vertex="1" parent="1">
@@ -212,7 +212,7 @@
         <mxCell id="nOpo5elGjL__1juKhSZJ-74" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 43px;&quot;&gt;IKE&amp;amp;CHHILD SA Management&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=43;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-5" y="1230" width="700" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="nOpo5elGjL__1juKhSZJ-76" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 43px;&quot;&gt;Crypto&amp;amp;Plugins&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=43;fontStyle=1;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="nOpo5elGjL__1juKhSZJ-76" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 43px;&quot;&gt;Crypto&amp;amp;Plugins&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=43;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="257" y="1643" width="440" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.16;entryY=0.884;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;strokeColor=#000000;" edge="1" parent="1" source="nOpo5elGjL__1juKhSZJ-40" target="nOpo5elGjL__1juKhSZJ-40">
