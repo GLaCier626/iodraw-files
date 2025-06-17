@@ -206,8 +206,8 @@
         <mxCell id="nOpo5elGjL__1juKhSZJ-72" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 41px;&quot;&gt;Core Daemon Logic&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-376" y="990" width="432" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="nOpo5elGjL__1juKhSZJ-73" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 41px;&quot;&gt;Configuration&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="1740" width="310" height="210" as="geometry" />
+        <mxCell id="nOpo5elGjL__1juKhSZJ-73" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 41px;&quot;&gt;Kernel Interface&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1330" width="440" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
