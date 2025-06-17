@@ -204,7 +204,7 @@
           <mxGeometry x="-240" y="1730" width="310" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-72" value="&lt;b style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 41px;&quot;&gt;Core Daemon Logic&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-322" y="995" width="432" height="210" as="geometry" />
+          <mxGeometry x="-376" y="990" width="432" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
