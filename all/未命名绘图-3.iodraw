@@ -203,6 +203,9 @@
         <mxCell id="nOpo5elGjL__1juKhSZJ-69" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 41px;&quot;&gt;Configuration&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1730" width="310" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="nOpo5elGjL__1juKhSZJ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nOpo5elGjL__1juKhSZJ-59" target="nOpo5elGjL__1juKhSZJ-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
