@@ -216,7 +216,7 @@
           <mxGeometry x="-5" y="1230" width="700" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-76" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 43px;&quot;&gt;Crypto&amp;amp;Plugins&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=43;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="307" y="1723" width="440" height="210" as="geometry" />
+          <mxGeometry x="326.5" y="1718" width="440" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nOpo5elGjL__1juKhSZJ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.16;entryY=0.884;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="nOpo5elGjL__1juKhSZJ-40" target="nOpo5elGjL__1juKhSZJ-40">
           <mxGeometry relative="1" as="geometry" />
