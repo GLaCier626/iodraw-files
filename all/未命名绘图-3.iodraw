@@ -200,8 +200,8 @@
         <mxCell id="nOpo5elGjL__1juKhSZJ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="nOpo5elGjL__1juKhSZJ-46" target="nOpo5elGjL__1juKhSZJ-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nOpo5elGjL__1juKhSZJ-69" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1260" width="60" height="30" as="geometry" />
+        <mxCell id="nOpo5elGjL__1juKhSZJ-69" value="Configuration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="760" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
